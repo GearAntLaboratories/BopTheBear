@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_graphic.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\title_graphic.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cave_mask.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\cave_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_play_background_new.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\game_play_background_new.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_play_background_original.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\game_play_background_original.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\high_scores_button_down.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\high_scores_button_down.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button_down.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\play_button_down.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\options_button_down.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\options_button_down.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bear_image.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\bear_image.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bop.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\bop.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\high_scores_button.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\high_scores_button.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_over_screen.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\game_over_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\options_button.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\options_button.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button.png",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    }
+]

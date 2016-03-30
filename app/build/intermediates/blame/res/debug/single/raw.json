@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss.wav",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\raw\\miss.wav"
+    },
+    {
+        "merged": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bop.wav",
+        "source": "C:\\Users\\grant\\AndroidStudioProjects\\BopTheBear1\\app\\src\\main\\res\\raw\\bop.wav"
+    }
+]
